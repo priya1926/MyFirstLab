@@ -1,0 +1,7 @@
+[20191210-10:06:47] [CORE ] main: app started pid 4538(0x000011ba)
+[20191210-10:06:47] [INFO ] main: DISPLAY env var set to :12.0
+[20191210-10:06:47] [INFO ] main: using DISPLAY 12
+[20191210-10:06:47] [INFO ] channel_thread_loop: thread start
+[20191210-10:06:48] [INFO ] Socket 12: AF_UNIX connection received
+[20191210-10:06:48] [INFO ] send_init_response_message:
+[20191210-10:20:50] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
